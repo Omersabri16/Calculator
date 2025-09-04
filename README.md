@@ -25,6 +25,7 @@ A simple calculator program written in Python.
 
 
 ## How it works
+```text
 What is the first number?: 10
 +
 -
@@ -34,4 +35,5 @@ Pick an operation: *
 What is the next number?: 5
 10 * 5 = 50
 Type 'y' to continue calculating with 50 , type 'n' to start a new calculation , type 'q' to quit from calculating:
+
 
