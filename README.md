@@ -18,9 +18,11 @@ A simple calculator program written in Python.
    git clone https://github.com/Omersabri16/Calculator.git
    
 2. Navigate into the project folder:
+   ```bash
    cd Calculator
    
-3. Run the program:
+4. Run the program:
+   ```bash
    python solution.py
 
 
