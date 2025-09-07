@@ -21,7 +21,7 @@ A simple calculator program written in Python.
    ```bash
    cd Calculator
    
-4. Run the program:
+3. Run the program:
    ```bash
    python solution.py
 
